@@ -19,7 +19,7 @@ I think a bigger fan base is the first step for the game to grow in Victoria. Mo
 Source: Australian Bureau of Statistics, Census DataPacks (tables G09F, G09G, G09H).
 
 **How "rugby-playing countries" were chosen.**
-I counted people born in eight countries where rugby union is a major sport: New Zealand, Samoa, Fiji, South Africa, England, Scotland, Wales and Ireland. [Reason: All eight have national teams that play at the Rugby World Cup.]
+I counted people born in eight countries where rugby union is a major sport: New Zealand, Samoa, Fiji, South Africa, England, Scotland, Wales and Ireland. All eight have national teams that play at the Rugby World Cup.
 I fixed this list before looking at any results, so that the countries were not picked to fit the outcome.
 
 **Limits.**
