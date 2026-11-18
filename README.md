@@ -19,18 +19,16 @@ I think a bigger fan base is the first step for the game to grow in Victoria. Mo
 Source: Australian Bureau of Statistics, Census DataPacks (tables G09F, G09G, G09H).
 
 **How "rugby-playing countries" were chosen.**
-I counted people born in eight countries where rugby union is a major sport: New Zealand, Samoa, Fiji, South Africa, England, Scotland, Wales and Ireland. All eight have national teams that play at the Rugby World Cup.
+I counted people born in eight countries where rugby union is a major sport: New Zealand, Samoa, Fiji, South Africa, England, Scotland, Wales and Ireland. All eight played at the 2023 Rugby World Cup and have qualified for the 2027 Rugby World Cup in Australia.
 I fixed this list before looking at any results, so that the countries were not picked to fit the outcome.
 
 **Limits.**
 - Country of birth is only a rough sign of who might follow rugby. It misses Australian-born fans and the children of migrants.
-- Tonga is not reported separately in this dataset, so it is not included.
+- Tonga is not reported separately in this dataset, so it is not included, although it also played at the 2023 Rugby World Cup and has qualified for 2027.
 - Census figures are from 2021.
 
 **Rugby club locations (union only).**
 Names and addresses of Victorian clubs from Rugby Victoria's "Find My Club", entered by hand. Date checked: [ ].
-
-
 
 ## Status: Week 1 collecting data
 
