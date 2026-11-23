@@ -33,7 +33,8 @@ I fixed this list before looking at any results, so that the countries were not 
 - The ABS slightly adjusts small counts to protect privacy, so my totals differ a little from ABS QuickStats (within 0.1% for Victoria).
 
 **Rugby club locations (union only).**
-Names and addresses of Victorian clubs from Rugby Victoria's "Find My Club", entered by hand. Date checked: [ ].
+Club list from Rugby Victoria's 2026 competition pages (men's, women's, colts and juniors). Home grounds and coordinates (latitude and longitude) from Google Maps, entered by hand. 26 clubs are used in the analysis. Date checked: 20 November 2026.
+File: [data/rugby_clubs_vic.csv](data/rugby_clubs_vic.csv)
 
 ## Method (A01)
 1. Added up people born in the eight countries for each SA2 area in Victoria.
