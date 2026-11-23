@@ -52,5 +52,6 @@ Results table (510 areas): [data/a01_rugby_born_by_sa2.csv](data/a01_rugby_born_
 
 ## Status
 - A01 (census data, top 10 areas): done
-- A02 (rugby union club table, clubs near the top 10 areas): next
+- Rugby club table (26 clubs with locations): done
+- A02 (clubs near the top 10 areas): next
 
