@@ -50,8 +50,16 @@ File: [data/rugby_clubs_vic.csv](data/rugby_clubs_vic.csv)
 Notebook: [notebooks/a01-data-collection.ipynb](notebooks/a01-data-collection.ipynb)
 Results table (510 areas): [data/a01_rugby_born_by_sa2.csv](data/a01_rugby_born_by_sa2.csv)
 
+### Club map (A02, first step)
+![Map of rugby union clubs in Victoria](notebooks/a02_club_map.png)
+
+- Most clubs are in inner and middle Melbourne. There are fewer in the north and the west.
+- There is no club on the Mornington Peninsula, where four of the top 10 areas are. Distances will be checked next.
+
+Notebook: [notebooks/a02-clubs-near-areas.ipynb](notebooks/a02-clubs-near-areas.ipynb)
+
 ## Status
 - A01 (census data, top 10 areas): done
 - Rugby club table (26 clubs with locations): done
-- A02 (clubs near the top 10 areas): next
+- A02 (clubs near the top 10 areas): in progress (club map done; distances next)
 
