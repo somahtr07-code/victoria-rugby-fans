@@ -1,7 +1,7 @@
 # Project A: victoria-rugby-fans
 
 ## Question
-Where are Victoria’s potential rugby fans, and is there a club near them?
+Where in Melbourne and Victoria's major regional cities (Geelong, Ballarat and Bendigo) do people born in Rugby World Cup 2027 countries live?
 
 ## Small Questions to help answering the Question above
 - How can we identify potential rugby fans?
@@ -62,4 +62,4 @@ Notebook: [notebooks/a02-clubs-near-areas.ipynb](notebooks/a02-clubs-near-areas.
 - A01 (census data, top 10 areas): done
 - Rugby club table (26 clubs with locations): done
 - A02 (clubs near the top 10 areas): in progress (club map done; distances next)
-
+- A03 (simplified question, World Cup countries): in progress
