@@ -1,7 +1,10 @@
 # Project A: victoria-rugby-fans
 
+## Goal
+Show where in Melbourne local promotion for the Rugby World Cup 2027 Melbourne matches should start, based on where people born in the competing countries live.
+
 ## Question
-Where in Melbourne and Victoria's major regional cities (Geelong, Ballarat and Bendigo) do people born in Rugby World Cup 2027 countries live?
+Where in Melbourne and Geelong, Victoria's two largest cities, do people born in Rugby World Cup 2027 countries live?
 
 ## Small Questions to help answering the Question above
 - How can we identify potential rugby fans?
@@ -61,5 +64,5 @@ Notebook: [notebooks/a02-clubs-near-areas.ipynb](notebooks/a02-clubs-near-areas.
 ## Status
 - A01 (census data, top 10 areas): done
 - Rugby club table (26 clubs with locations): done
-- A02 (clubs near the top 10 areas): in progress (club map done; distances next)
-- A03 (simplified question, World Cup countries): in progress
+- A02 (clubs near the top 10 areas): paused. The project was simplified to one question (A03); the club map will be reused there.
+- A03 (World Cup countries, Melbourne and Geelong): in progress. Data, filtering and top 10 areas done; map next.
