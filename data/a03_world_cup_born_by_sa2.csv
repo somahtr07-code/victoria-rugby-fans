@@ -1,0 +1,378 @@
+SA2_CODE_2021,sa2_name,city,P_Tot_Tot,world_cup_born,world_cup_share,top_country,top_country_pct
+208011169,Brighton (Vic.),Melbourne,22758,3071,13.5,England,40.2
+214021382,Mount Martha,Melbourne,19846,2962,14.9,England,58.9
+208021174,Bentleigh - McKinnon,Melbourne,24896,2917,11.7,England,29.0
+206061136,Prahran - Windsor,Melbourne,19119,2915,15.2,England,31.2
+214021381,Mount Eliza,Melbourne,18734,2903,15.5,England,59.7
+208021177,Caulfield - North,Melbourne,22362,2895,12.9,South_Africa,25.8
+213051464,Point Cook - East,Melbourne,19274,2845,14.8,New_Zealand,31.5
+208021178,Caulfield - South,Melbourne,18075,2818,15.6,South_Africa,36.7
+214011371,Frankston,Melbourne,23586,2769,11.7,England,44.4
+208031193,Mordialloc - Parkdale,Melbourne,21199,2724,12.8,England,42.2
+208011172,Hampton,Melbourne,18200,2660,14.6,England,45.5
+208011173,Sandringham - Black Rock,Melbourne,17358,2658,15.3,England,46.9
+212021293,Berwick - North,Melbourne,22963,2657,11.6,England,42.9
+208031188,Highett (East) - Cheltenham,Melbourne,24085,2654,11.0,England,33.8
+214011374,Langwarrin,Melbourne,24939,2619,10.5,England,53.7
+207021157,Doncaster,Melbourne,24814,2538,10.2,Hong_Kong_SAR_Ch,35.1
+214021379,Hastings - Somers,Melbourne,23970,2534,10.6,England,60.9
+214011373,Frankston South,Melbourne,18801,2488,13.2,England,55.0
+206051514,St Kilda - West,Melbourne,13858,2402,17.3,England,30.6
+206051134,St Kilda East,Melbourne,15813,2375,15.0,England,29.1
+209031209,Eltham,Melbourne,23444,2358,10.1,England,46.8
+214021384,Rosebud - McCrae,Melbourne,22944,2336,10.2,England,53.2
+206051130,Port Melbourne,Melbourne,16192,2298,14.2,England,34.7
+214011370,Carrum Downs,Melbourne,21976,2288,10.4,England,34.1
+206071517,Richmond (South) - Cremorne,Melbourne,17671,2266,12.8,England,35.0
+214021591,Mornington - East,Melbourne,15175,2252,14.8,England,58.0
+206051128,Albert Park,Melbourne,15825,2249,14.2,England,32.5
+212011552,Pakenham - South West,Melbourne,26783,2241,8.4,England,37.3
+206051129,Elwood,Melbourne,14818,2228,15.0,England,34.4
+206051513,St Kilda - Central,Melbourne,11857,2221,18.7,England,28.0
+206021112,Thornbury,Melbourne,18919,2221,11.7,England,24.5
+207011149,Camberwell,Melbourne,21232,2212,10.4,England,31.6
+203031053,Torquay,Geelong,24607,2198,8.9,England,41.0
+212011546,Beaconsfield - Officer,Melbourne,23632,2178,9.2,England,38.0
+206041509,Southbank - East,Melbourne,16101,2160,13.4,England,21.6
+211011446,Boronia,Melbourne,23560,2110,9.0,England,44.1
+208011168,Beaumaris,Melbourne,14021,2100,15.0,England,48.0
+208011170,Brighton East,Melbourne,16540,2100,12.7,England,35.0
+214011372,Frankston North,Melbourne,19453,2095,10.8,England,43.2
+209021428,Preston - East,Melbourne,20711,2028,9.8,Italy,23.4
+213021344,Newport,Melbourne,18753,2019,10.8,England,32.5
+212031304,Cranbourne West,Melbourne,21535,1995,9.3,New_Zealand,32.7
+213051583,Tarneit - Central,Melbourne,28116,1973,7.0,New_Zealand,49.6
+208041194,Malvern - Glen Iris,Melbourne,20239,1972,9.7,England,33.0
+206011496,Brunswick - South,Melbourne,12983,1956,15.1,England,26.8
+212031557,Cranbourne East - North,Melbourne,23415,1953,8.3,New_Zealand,31.1
+213051466,Point Cook - South,Melbourne,19091,1951,10.2,New_Zealand,34.2
+214011375,Seaford (Vic.),Melbourne,17215,1948,11.3,England,44.1
+214021385,Somerville,Melbourne,18522,1947,10.5,England,61.6
+207021424,Doncaster East - North,Melbourne,15672,1945,12.4,Hong_Kong_SAR_Ch,44.7
+213021346,Williamstown,Melbourne,15912,1940,12.2,England,44.0
+212031300,Cranbourne,Melbourne,21281,1935,9.1,New_Zealand,30.3
+206011106,Brunswick East,Melbourne,12738,1919,15.1,England,25.3
+213051468,Werribee - West,Melbourne,22341,1918,8.6,New_Zealand,34.8
+212051326,Oakleigh - Huntingdale,Melbourne,22928,1912,8.3,Italy,25.4
+203021042,Highton,Geelong,24034,1905,7.9,England,42.4
+213051368,Werribee - South,Melbourne,16810,1901,11.3,Italy,23.7
+211051281,Mooroolbark,Melbourne,23146,1899,8.2,England,46.4
+207021159,Templestowe,Melbourne,16966,1883,11.1,Italy,24.0
+206061515,South Yarra - North,Melbourne,11192,1881,16.8,England,26.4
+211051278,Lilydale - Coldstream,Melbourne,19599,1879,9.6,England,52.5
+206071143,Fitzroy North,Melbourne,12781,1868,14.6,England,32.4
+208031186,Chelsea - Bonbeach,Melbourne,15204,1859,12.2,England,41.1
+212051327,Wheelers Hill,Melbourne,20652,1842,8.9,England,24.4
+206031116,Moonee Ponds,Melbourne,16224,1841,11.3,Italy,31.6
+207011148,Balwyn North,Melbourne,21123,1840,8.7,Hong_Kong_SAR_Ch,26.7
+206041117,Carlton,Melbourne,16655,1835,11.0,England,19.1
+214021383,Point Nepean,Melbourne,19811,1832,9.2,England,44.3
+209041223,Thomastown,Melbourne,19998,1819,9.1,Italy,65.1
+213041358,Melton West,Melbourne,21208,1817,8.6,New_Zealand,32.3
+209011197,Greensborough,Melbourne,20807,1811,8.7,England,33.3
+208041195,Malvern East,Melbourne,21923,1809,8.3,England,30.3
+213041353,Bacchus Marsh,Melbourne,24717,1788,7.2,England,41.7
+208021176,Carnegie,Melbourne,18534,1783,9.6,England,23.5
+214011376,Skye - Sandhurst,Melbourne,13303,1776,13.4,England,37.8
+210031538,Pascoe Vale,Melbourne,17214,1774,10.3,Italy,40.1
+212021553,Berwick - South East,Melbourne,17760,1765,9.9,England,31.8
+206021499,Northcote - East,Melbourne,15068,1757,11.7,England,30.7
+212051321,Glen Waverley - East,Melbourne,21603,1756,8.1,Hong_Kong_SAR_Ch,29.4
+213021341,Altona,Melbourne,13556,1748,12.9,England,37.2
+213021342,Altona Meadows,Melbourne,18479,1745,9.4,England,28.1
+203021487,Grovedale - Mount Duneed,Geelong,24763,1738,7.0,England,44.2
+207031161,Blackburn,Melbourne,22106,1735,7.8,England,32.6
+206011495,Brunswick - North,Melbourne,12890,1714,13.3,England,24.1
+208021179,Elsternwick,Melbourne,11904,1714,14.4,England,27.9
+212011289,Emerald - Cockatoo,Melbourne,18633,1705,9.2,England,56.0
+213051361,Hoppers Crossing - North,Melbourne,18446,1705,9.2,New_Zealand,30.1
+212041312,Dandenong North,Melbourne,22526,1702,7.6,Italy,22.1
+214021592,Mornington - West,Melbourne,10581,1699,16.1,England,58.6
+203031048,Clifton Springs,Geelong,16797,1690,10.1,England,55.9
+213031352,Yarraville,Melbourne,15463,1687,10.9,England,33.6
+210011533,Avondale Heights,Melbourne,12388,1687,13.6,Italy,63.5
+211021261,Donvale - Park Orchards,Melbourne,16275,1686,10.4,England,25.3
+211011260,Wantirna South,Melbourne,17942,1682,9.4,England,30.1
+213051467,Werribee - East,Melbourne,19010,1674,8.8,New_Zealand,29.9
+209021524,Reservoir - North West,Melbourne,9801,1664,17.0,Italy,80.6
+208011171,Highett (West) - Cheltenham,Melbourne,12439,1657,13.3,England,40.2
+206011107,Brunswick West,Melbourne,14318,1656,11.6,Italy,25.2
+206051512,South Melbourne,Melbourne,11693,1654,14.1,England,33.9
+208031190,Mentone,Melbourne,13197,1652,12.5,England,37.7
+211031267,Ringwood East,Melbourne,21132,1648,7.8,England,41.3
+206011497,Coburg - East,Melbourne,12535,1645,13.1,Italy,36.8
+213051362,Hoppers Crossing - South,Melbourne,18772,1643,8.8,New_Zealand,32.5
+209011198,Heidelberg - Rosanna,Melbourne,16039,1635,10.2,England,26.0
+212051319,Ashwood - Chadstone,Melbourne,19507,1628,8.3,England,22.3
+206041506,North Melbourne,Melbourne,15637,1625,10.4,England,21.8
+209011203,Viewbank - Yallambie,Melbourne,18733,1618,8.6,England,32.2
+206041118,Docklands,Melbourne,15493,1615,10.4,New_Zealand,19.9
+212051322,Glen Waverley - West,Melbourne,21036,1612,7.7,Hong_Kong_SAR_Ch,34.8
+207031163,Box Hill,Melbourne,22841,1608,7.0,Hong_Kong_SAR_Ch,30.7
+211031265,Croydon Hills - Warranwood,Melbourne,18059,1596,8.8,England,44.5
+209041224,Wallan,Melbourne,22627,1595,7.0,England,32.8
+207021425,Doncaster East - South,Melbourne,15454,1594,10.3,Hong_Kong_SAR_Ch,41.8
+207011155,Surrey Hills (West) - Canterbury,Melbourne,15944,1593,10.0,England,34.8
+208021426,Bentleigh East - North,Melbourne,16583,1587,9.6,South_Africa,22.9
+212051324,Mount Waverley - South,Melbourne,19265,1568,8.1,England,23.4
+210051246,Greenvale - Bulla,Melbourne,22095,1567,7.1,Italy,48.8
+206071518,Richmond - North,Melbourne,13867,1567,11.3,England,26.5
+210051445,Mickleham - Yuroke,Melbourne,23374,1565,6.7,New_Zealand,40.7
+210011534,Keilor East,Melbourne,15073,1557,10.3,Italy,55.2
+214021377,Dromana,Melbourne,13366,1556,11.6,England,49.3
+206061138,Toorak,Melbourne,12953,1534,11.8,England,29.0
+207011150,Glen Iris - East,Melbourne,16829,1534,9.1,England,33.6
+203021043,Lara,Geelong,20817,1529,7.3,England,48.5
+211031266,Ringwood,Melbourne,18715,1525,8.1,England,36.2
+203031490,Ocean Grove,Geelong,19394,1519,7.8,England,54.5
+206061516,South Yarra - South,Melbourne,9939,1510,15.2,England,29.0
+206041505,Melbourne CBD - West,Melbourne,15648,1510,9.6,New_Zealand,19.3
+207011152,Hawthorn East,Melbourne,15684,1503,9.6,England,30.1
+206011498,Coburg - West,Melbourne,14031,1494,10.6,Italy,38.6
+210051245,Gladstone Park - Westmeadows,Melbourne,18024,1494,8.3,Italy,36.3
+213021343,Altona North,Melbourne,14931,1490,10.0,Italy,34.4
+210031237,Fawkner,Melbourne,14002,1490,10.6,Italy,70.1
+207031164,Box Hill North,Melbourne,18126,1486,8.2,England,23.4
+212031303,Cranbourne South,Melbourne,17400,1481,8.5,England,38.4
+212051325,Mulgrave,Melbourne,19889,1473,7.4,Italy,24.0
+213041463,Caroline Springs,Melbourne,20365,1464,7.2,New_Zealand,26.7
+213031348,Footscray,Melbourne,17131,1453,8.5,England,25.8
+206071142,Fitzroy,Melbourne,10431,1451,13.9,England,32.6
+208031189,Edithvale - Aspendale,Melbourne,13563,1426,10.5,England,42.2
+207011147,Balwyn,Melbourne,16163,1415,8.8,England,27.4
+209041437,Wollert,Melbourne,24407,1414,5.8,New_Zealand,27.0
+209021429,Preston - West,Melbourne,12696,1407,11.1,Italy,38.3
+209021523,Reservoir - North East,Melbourne,14795,1405,9.5,Italy,44.1
+208021427,Bentleigh East - South,Melbourne,14057,1403,10.0,England,24.2
+213041578,Melton South - Weir Views,Melbourne,16658,1397,8.4,New_Zealand,39.0
+207021160,Templestowe Lower,Melbourne,14191,1392,9.8,Italy,28.4
+209011202,Montmorency - Briar Hill,Melbourne,16539,1390,8.4,England,43.1
+206031113,Ascot Vale,Melbourne,15191,1390,9.2,England,25.1
+203021040,Geelong West - Hamlyn Heights,Geelong,21200,1390,6.6,England,35.6
+208021182,Ormond - Glen Huntly,Melbourne,13128,1381,10.5,England,24.4
+211041270,Mitcham (Vic.),Melbourne,16795,1381,8.2,England,28.2
+211031450,Croydon - East,Melbourne,16109,1381,8.6,England,47.4
+211011448,Ferntree Gully (South) - Upper Ferntree Gully,Melbourne,15334,1379,9.0,England,41.6
+211051286,Yarra Valley,Melbourne,16799,1378,8.2,England,59.7
+208031185,Carrum - Patterson Lakes,Melbourne,12032,1375,11.4,England,43.3
+211011254,Knoxfield - Scoresby,Melbourne,16601,1372,8.3,England,31.3
+206071141,Collingwood,Melbourne,9179,1370,14.9,England,29.1
+209021526,Reservoir - South West,Melbourne,14090,1361,9.7,Italy,36.8
+211051276,Healesville - Yarra Glen,Melbourne,14065,1360,9.7,England,56.2
+212031306,Lynbrook - Lyndhurst,Melbourne,18027,1358,7.5,New_Zealand,27.4
+211031451,Croydon - West,Melbourne,14139,1356,9.6,England,47.0
+212021456,Narre Warren - South West,Melbourne,14758,1346,9.1,New_Zealand,25.9
+212031458,Narre Warren South - West,Melbourne,16713,1345,8.0,New_Zealand,25.1
+207021156,Bulleen,Melbourne,11289,1341,11.9,Italy,51.4
+206021500,Northcote - West,Melbourne,10299,1335,13.0,England,31.9
+212051323,Mount Waverley - North,Melbourne,16073,1335,8.3,England,23.0
+211011256,Rowville - Central,Melbourne,15418,1334,8.7,England,31.4
+206041504,Melbourne CBD - North,Melbourne,16870,1321,7.8,Hong_Kong_SAR_Ch,25.0
+213011340,Taylors Lakes,Melbourne,16910,1318,7.8,Italy,39.3
+212011549,Pakenham - North East,Melbourne,15441,1318,8.5,England,36.2
+213011569,Deer Park,Melbourne,18004,1317,7.3,New_Zealand,28.2
+206031501,Essendon (West) - Aberfeldie,Melbourne,16042,1314,8.2,Italy,35.6
+210051443,Craigieburn - South,Melbourne,21673,1310,6.0,New_Zealand,31.8
+210041540,Sunbury - South,Melbourne,14985,1303,8.7,England,41.1
+209041220,Mill Park - North,Melbourne,17470,1295,7.4,Italy,45.6
+213051580,Point Cook - North East,Melbourne,14167,1287,9.1,New_Zealand,30.6
+212041563,Dandenong - North,Melbourne,21487,1255,5.8,New_Zealand,20.9
+211011447,Ferntree Gully - North,Melbourne,14145,1250,8.8,England,46.3
+207011522,Kew - West,Melbourne,13039,1249,9.6,England,28.8
+212031562,Hampton Park - West,Melbourne,13368,1246,9.3,New_Zealand,35.8
+213051588,Truganina - South West,Melbourne,19065,1228,6.4,New_Zealand,48.5
+209011200,Ivanhoe,Melbourne,12458,1223,9.8,England,30.0
+212021455,Narre Warren - North East,Melbourne,13504,1221,9.0,England,24.9
+206041121,Kensington (Vic.),Melbourne,10745,1218,11.3,England,28.6
+212031558,Cranbourne East - South,Melbourne,12289,1215,9.9,New_Zealand,32.0
+211011259,Wantirna,Melbourne,14341,1190,8.3,England,27.4
+207011520,Hawthorn - South,Melbourne,11957,1184,9.9,England,30.5
+206071139,Abbotsford,Melbourne,9088,1183,13.0,England,28.7
+212031457,Narre Warren South - East,Melbourne,13152,1170,8.9,England,31.0
+209031215,Wattle Glen - Diamond Creek,Melbourne,14417,1167,8.1,England,48.8
+213011338,Sunshine West,Melbourne,18558,1165,6.3,Italy,22.7
+212021454,Endeavour Hills - South,Melbourne,13360,1163,8.7,New_Zealand,18.0
+209041527,Doreen - North,Melbourne,16299,1153,7.1,England,37.0
+209011199,Heidelberg West,Melbourne,14852,1152,7.8,England,23.7
+206071145,Clifton Hill - Alphington,Melbourne,9855,1146,11.6,England,35.3
+210021232,Gisborne,Melbourne,14222,1145,8.1,England,45.5
+212031561,Hampton Park - East,Melbourne,12715,1141,9.0,New_Zealand,34.8
+213041575,Hillside,Melbourne,16182,1138,7.0,Italy,22.5
+212021453,Endeavour Hills - North,Melbourne,12086,1132,9.4,England,20.3
+213031347,Braybrook,Melbourne,19068,1123,5.9,New_Zealand,23.5
+211041273,Vermont South,Melbourne,11954,1122,9.4,England,25.8
+211051275,Chirnside Park,Melbourne,11779,1122,9.5,England,43.0
+210041240,Sunbury,Melbourne,13671,1120,8.2,England,39.4
+207011521,Kew - South,Melbourne,11601,1120,9.7,England,31.2
+213041359,Rockbank - Mount Cottrell,Melbourne,17553,1115,6.4,New_Zealand,41.1
+210031535,Glenroy - East,Melbourne,14783,1106,7.5,Italy,48.1
+213011334,St Albans - North,Melbourne,20581,1101,5.3,New_Zealand,28.2
+211051282,Mount Dandenong - Olinda,Melbourne,9706,1095,11.3,England,56.5
+213041360,Taylors Hill,Melbourne,19539,1094,5.6,New_Zealand,23.3
+203021047,North Geelong - Bell Park,Geelong,15795,1087,6.9,Italy,27.0
+211051274,Belgrave - Selby,Melbourne,10005,1086,10.9,England,54.6
+211011251,Bayswater,Melbourne,12589,1084,8.6,England,30.7
+212021297,Hallam,Melbourne,11472,1068,9.3,New_Zealand,22.6
+206061135,Armadale,Melbourne,9336,1067,11.4,England,30.9
+206071140,Carlton North - Princes Hill,Melbourne,8186,1066,13.0,England,28.6
+212031556,Clyde North - South,Melbourne,14802,1054,7.1,New_Zealand,33.1
+212031560,Cranbourne North - West,Melbourne,11910,1051,8.8,New_Zealand,30.9
+213051590,Wyndham Vale - South,Melbourne,13546,1050,7.8,England,31.8
+213031351,West Footscray - Tottenham,Melbourne,11735,1043,8.9,England,25.0
+211051284,Upwey - Tecoma,Melbourne,9777,1038,10.6,England,49.7
+212041313,Dingley Village,Melbourne,10499,1034,9.8,England,39.9
+212041565,Keysborough - North,Melbourne,15096,1029,6.8,New_Zealand,25.5
+203021039,Geelong,Geelong,13504,1029,7.6,England,40.3
+208031191,Moorabbin - Heatherton,Melbourne,9116,1029,11.3,England,29.1
+206031502,Essendon - East,Melbourne,12191,1027,8.4,Italy,24.6
+213031349,Maribyrnong,Melbourne,12573,1019,8.1,New_Zealand,19.6
+209041530,Lalor - West,Melbourne,13513,1017,7.5,Italy,61.6
+203021037,Belmont,Geelong,15017,1016,6.8,England,36.6
+213051581,Point Cook - North West,Melbourne,9565,1004,10.5,New_Zealand,33.2
+206011109,Pascoe Vale South,Melbourne,10390,995,9.6,Italy,48.5
+203021045,Newcomb - Moolap,Geelong,15462,994,6.4,England,48.6
+211021262,Warrandyte - Wonga Park,Melbourne,10112,988,9.8,England,45.4
+211041271,Nunawading,Melbourne,12413,988,8.0,England,28.6
+213011332,Keilor Downs,Melbourne,13082,984,7.5,Italy,27.9
+212031559,Cranbourne North - East,Melbourne,12772,981,7.7,New_Zealand,36.4
+206041503,Melbourne CBD - East,Melbourne,9848,975,9.9,New_Zealand,18.2
+209021525,Reservoir - South East,Melbourne,12799,974,7.6,Italy,36.1
+212041460,Noble Park - West,Melbourne,19591,965,4.9,New_Zealand,24.1
+203021486,Corio - Lovely Banks,Geelong,18325,963,5.3,England,46.2
+210031236,Coburg North,Melbourne,8425,962,11.4,Italy,42.7
+213031350,Seddon - Kingsville,Melbourne,9247,955,10.3,England,32.1
+212031555,Clyde North - North,Melbourne,10535,954,9.1,England,24.9
+203021044,Leopold,Geelong,13272,952,7.2,England,48.9
+209041436,South Morang - South,Melbourne,12392,949,7.7,Italy,38.1
+207011519,Hawthorn - North,Melbourne,9890,940,9.5,England,34.0
+206041125,South Yarra - West,Melbourne,6423,940,14.6,England,30.0
+213041576,Kurunjang - Toolern Vale,Melbourne,11632,938,8.1,New_Zealand,28.4
+207031167,Surrey Hills (East) - Mont Albert,Melbourne,10166,933,9.2,England,35.2
+212041317,Springvale,Melbourne,22248,929,4.2,Italy,23.3
+211031263,Bayswater North,Melbourne,11871,923,7.8,England,44.1
+208031183,Aspendale Gardens - Waterways,Melbourne,8853,922,10.4,England,35.0
+212021554,Berwick - South West,Melbourne,11254,919,8.2,New_Zealand,25.2
+213051363,Laverton,Melbourne,11459,915,8.0,New_Zealand,40.0
+212041566,Keysborough - South,Melbourne,15093,911,6.0,New_Zealand,21.4
+203031051,Portarlington,Geelong,9536,911,9.6,England,49.4
+207031165,Burwood (Vic.),Melbourne,12336,908,7.4,England,26.1
+206021110,Alphington - Fairfield,Melbourne,8994,908,10.1,England,32.2
+203031489,Barwon Heads - Armstrong Creek,Geelong,11333,900,7.9,England,47.2
+206041124,Parkville,Melbourne,7297,900,12.3,England,26.9
+210051442,Craigieburn - North,Melbourne,12309,894,7.3,New_Zealand,29.4
+206041508,Southbank (West) - South Wharf,Melbourne,6463,891,13.8,England,23.2
+210011226,Airport West,Melbourne,8173,890,10.9,Italy,52.8
+211041269,Forest Hill,Melbourne,10780,889,8.2,England,23.5
+210041541,Sunbury - West,Melbourne,11166,888,8.0,England,42.6
+211031268,Ringwood North,Melbourne,9654,875,9.1,England,37.3
+211011258,Rowville - South,Melbourne,10375,872,8.4,England,28.9
+207031162,Blackburn South,Melbourne,10939,857,7.8,England,25.4
+213011339,Sydenham,Melbourne,11726,852,7.3,New_Zealand,22.4
+210011228,Keilor,Melbourne,8548,851,10.0,Italy,55.5
+211051277,Kilsyth,Melbourne,9916,848,8.6,England,51.2
+209041532,Mernda - South,Melbourne,11940,844,7.1,New_Zealand,20.4
+211041272,Vermont,Melbourne,10993,840,7.6,England,32.5
+213041571,Brookfield,Melbourne,9829,840,8.5,New_Zealand,31.9
+212021295,Doveton,Melbourne,11889,838,7.0,New_Zealand,25.5
+212041310,Clayton South,Melbourne,13381,831,6.2,Italy,23.3
+209041531,Mernda - North,Melbourne,11427,826,7.2,New_Zealand,24.2
+213051585,Tarneit - South,Melbourne,11182,822,7.4,New_Zealand,40.5
+209041221,Mill Park - South,Melbourne,11240,818,7.3,Italy,32.8
+212021299,Narre Warren North,Melbourne,8241,809,9.8,England,29.5
+209041431,Epping - East,Melbourne,13144,807,6.1,Italy,37.9
+209041529,Lalor - East,Melbourne,9947,805,8.1,Italy,60.2
+208021181,Murrumbeena,Melbourne,9369,802,8.6,England,25.4
+209021205,Kingsbury,Melbourne,10408,801,7.7,Italy,26.7
+206041510,West Melbourne - Residential,Melbourne,7446,797,10.7,England,23.1
+210051243,Campbellfield - Coolaroo,Melbourne,16057,797,5.0,Italy,42.3
+209041435,South Morang - North,Melbourne,12595,783,6.2,Italy,30.1
+211051283,Mount Evelyn,Melbourne,9799,780,8.0,England,60.8
+213051582,Tarneit (West) - Mount Cottrell,Melbourne,10132,776,7.7,New_Zealand,57.7
+206031115,Flemington,Melbourne,9065,765,8.4,England,23.0
+212041459,Noble Park - East,Melbourne,12739,757,5.9,New_Zealand,21.5
+212051568,Clayton - Central,Melbourne,12052,755,6.3,Italy,28.3
+212041309,Clarinda - Oakleigh South,Melbourne,11554,754,6.5,Italy,27.5
+209031213,Plenty - Yarrambat,Melbourne,9454,745,7.9,England,29.8
+209041225,Whittlesea,Melbourne,10661,743,7.0,England,35.8
+207031166,Burwood East,Melbourne,10675,737,6.9,Hong_Kong_SAR_Ch,24.0
+213041577,Melton,Melbourne,7886,735,9.3,New_Zealand,28.8
+203021046,Newtown (Vic.),Geelong,10445,734,7.0,England,39.4
+209041433,Epping (Vic.) - West,Melbourne,12143,727,6.0,New_Zealand,28.6
+209011201,Ivanhoe East - Eaglemont,Melbourne,7740,724,9.4,England,35.1
+210021235,Romsey,Melbourne,10765,720,6.7,England,50.7
+210051543,Craigieburn - West,Melbourne,12999,720,5.5,New_Zealand,32.2
+213051579,Manor Lakes - Quandong,Melbourne,10616,715,6.7,New_Zealand,43.5
+213011333,Kings Park (Vic.),Melbourne,13983,715,5.1,New_Zealand,21.7
+212011548,Koo Wee Rup,Melbourne,10069,714,7.1,England,44.4
+206041119,East Melbourne,Melbourne,4896,707,14.4,England,30.7
+213051589,Wyndham Vale - North,Melbourne,9032,704,7.8,New_Zealand,46.6
+210011231,Strathmore,Melbourne,10031,703,7.0,Italy,29.4
+209041528,Doreen - South,Melbourne,10471,701,6.7,England,32.5
+213011335,St Albans - South,Melbourne,17454,692,4.0,New_Zealand,26.2
+209011204,Watsonia,Melbourne,9236,683,7.4,England,25.9
+207011146,Ashburton (Vic.),Melbourne,7952,665,8.4,England,34.4
+210051242,Broadmeadows,Melbourne,13859,660,4.8,New_Zealand,23.5
+213051586,Truganina - North,Melbourne,9340,657,7.0,New_Zealand,53.0
+203021485,Charlemont,Geelong,10300,653,6.3,England,45.5
+210031537,Oak Park,Melbourne,7898,644,8.2,Italy,24.1
+209011196,Bundoora - East,Melbourne,9831,634,6.4,Italy,29.3
+209031214,Research - North Warrandyte,Melbourne,6935,631,9.1,England,46.0
+210051441,Craigieburn - Central,Melbourne,8099,629,7.8,New_Zealand,28.5
+211011257,Rowville - North,Melbourne,7905,629,8.0,England,36.9
+213041574,Fraser Rise - Plumpton,Melbourne,10098,624,6.2,New_Zealand,32.9
+212031308,Pearcedale - Tooradin,Melbourne,8024,623,7.8,England,53.0
+212011547,Bunyip - Garfield,Melbourne,9868,618,6.3,England,54.7
+214021378,Flinders,Melbourne,5995,617,10.3,England,55.3
+209041432,Epping - South,Melbourne,8204,617,7.5,Italy,41.2
+213011570,Derrimut,Melbourne,8653,614,7.1,New_Zealand,34.5
+207011154,Kew East,Melbourne,6482,614,9.5,England,27.4
+212051567,Clayton (North) - Notting Hill,Melbourne,9829,612,6.2,Hong_Kong_SAR_Ch,27.8
+213051587,Truganina - South East,Melbourne,9596,608,6.3,New_Zealand,48.7
+210051250,Tullamarine,Melbourne,6576,606,9.2,Italy,35.8
+208031187,Chelsea Heights,Melbourne,5393,606,11.2,England,41.9
+211051280,Montrose,Melbourne,6943,604,8.7,England,59.8
+210031440,Hadfield,Melbourne,6241,603,9.7,Italy,55.7
+210011230,Niddrie - Essendon West,Melbourne,7460,601,8.1,Italy,28.6
+211051285,Wandin - Seville,Melbourne,7902,596,7.5,England,56.9
+212011551,Pakenham - South East,Melbourne,6439,591,9.2,England,49.1
+208021180,Hughesdale,Melbourne,7563,588,7.8,England,24.1
+212041316,Noble Park North,Melbourne,7456,586,7.9,New_Zealand,21.2
+213011337,Sunshine North,Melbourne,12047,586,4.9,Italy,32.9
+210031536,Glenroy - West,Melbourne,8857,584,6.6,Italy,33.6
+212011550,Pakenham - North West,Melbourne,7479,574,7.7,England,33.8
+213011336,Sunshine,Melbourne,9445,564,6.0,New_Zealand,23.0
+212041318,Springvale South,Melbourne,12621,552,4.4,New_Zealand,24.1
+211011255,Lysterfield,Melbourne,6594,542,8.2,England,35.6
+213011328,Ardeer - Albion,Melbourne,7502,536,7.1,New_Zealand,26.5
+211051279,Monbulk - Silvan,Melbourne,5816,534,9.2,England,57.9
+203011035,Golden Plains - South,Geelong,8111,529,6.5,England,59.2
+210051247,Meadow Heights,Melbourne,14890,512,3.4,New_Zealand,30.9
+213051584,Tarneit - North,Melbourne,7197,500,6.9,New_Zealand,59.4
+213011329,Cairnlea,Melbourne,10038,494,4.9,New_Zealand,21.5
+209041217,Bundoora - West,Melbourne,6186,493,8.0,Italy,44.4
+210051545,Roxburgh Park - North,Melbourne,14658,492,3.4,New_Zealand,31.9
+213011331,Delahey,Melbourne,8077,490,6.1,New_Zealand,19.0
+213041572,Cobblebank - Strathtulloh,Melbourne,7598,488,6.4,New_Zealand,48.8
+210051542,Craigieburn - North West,Melbourne,9842,485,4.9,New_Zealand,41.9
+212041564,Dandenong - South,Melbourne,9350,474,5.1,New_Zealand,25.9
+203031049,Lorne - Anglesea,Geelong,6234,468,7.5,England,38.5
+203011034,Bannockburn,Geelong,7754,459,5.9,England,55.3
+203021488,Norlane,Geelong,9051,455,5.0,England,35.8
+209041216,Bundoora - North,Melbourne,7350,455,6.2,Italy,30.3
+209031212,Panton Hill - St Andrews,Melbourne,5091,422,8.3,England,53.1
+203031052,Point Lonsdale - Queenscliff,Geelong,5519,415,7.5,England,53.0
+210051544,Roxburgh Park (South) - Somerton,Melbourne,9479,405,4.3,Italy,21.5
+213041462,Burnside Heights,Melbourne,6377,389,6.1,New_Zealand,25.4
+213021345,Seabrook,Melbourne,4952,389,7.9,England,27.5
+203011036,Winchelsea,Geelong,6614,384,5.8,England,58.1
+211011449,The Basin,Melbourne,4345,379,8.7,England,58.8
+213041461,Burnside,Melbourne,5800,378,6.5,England,20.1
+211031452,Croydon South,Melbourne,4898,375,7.7,England,45.1
+210021233,Macedon,Melbourne,3523,363,10.3,England,51.5
+210021234,Riddells Creek,Melbourne,4457,334,7.5,England,56.0
+210041539,Diggers Rest,Melbourne,5237,326,6.2,England,27.0
+206051511,Port Melbourne Industrial,Melbourne,1907,301,15.8,England,27.6
+209031210,Hurstbridge,Melbourne,3554,281,7.9,England,61.6
+209031211,Kinglake,Melbourne,4204,263,6.3,England,48.3
+213041573,Eynesbury - Exford,Melbourne,2990,252,8.4,England,44.8
+210031439,Gowanbrae,Melbourne,3111,235,7.6,Fiji,25.1
